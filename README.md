@@ -15,6 +15,7 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/monikark-del/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/monikark-del/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/monikark-del/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -37,6 +38,7 @@ My LeetCode solutions in Java
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/monikark-del/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/monikark-del/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/monikark-del/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
