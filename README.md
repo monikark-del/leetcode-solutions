@@ -26,6 +26,7 @@ My LeetCode solutions in Java
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/monikark-del/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/monikark-del/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/monikark-del/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Math
@@ -60,6 +61,7 @@ My LeetCode solutions in Java
 | [1422-maximum-score-after-splitting-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/monikark-del/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/monikark-del/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
