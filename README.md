@@ -6,6 +6,7 @@ My LeetCode solutions in Java
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0848-shifting-letters](https://github.com/monikark-del/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -18,6 +19,7 @@ My LeetCode solutions in Java
 | [0238-product-of-array-except-self](https://github.com/monikark-del/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/monikark-del/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0848-shifting-letters](https://github.com/monikark-del/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/monikark-del/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/monikark-del/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -46,6 +48,7 @@ My LeetCode solutions in Java
 | [0238-product-of-array-except-self](https://github.com/monikark-del/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/monikark-del/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0848-shifting-letters](https://github.com/monikark-del/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/monikark-del/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/monikark-del/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
