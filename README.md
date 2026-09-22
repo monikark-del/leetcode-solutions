@@ -7,6 +7,7 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0848-shifting-letters](https://github.com/monikark-del/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@ My LeetCode solutions in Java
 | [0848-shifting-letters](https://github.com/monikark-del/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/monikark-del/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/monikark-del/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Segment Tree
