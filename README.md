@@ -29,12 +29,14 @@ My LeetCode solutions in Java
 | [1732-find-the-highest-altitude](https://github.com/monikark-del/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/monikark-del/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/monikark-del/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/monikark-del/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/monikark-del/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
