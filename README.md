@@ -19,6 +19,7 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/monikark-del/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/monikark-del/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
@@ -98,6 +99,7 @@ My LeetCode solutions in Java
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/monikark-del/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/monikark-del/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
