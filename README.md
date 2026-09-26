@@ -9,6 +9,7 @@ My LeetCode solutions in Java
 | [0848-shifting-letters](https://github.com/monikark-del/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ My LeetCode solutions in Java
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/monikark-del/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/monikark-del/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/monikark-del/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/monikark-del/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -52,6 +54,7 @@ My LeetCode solutions in Java
 | [0974-subarray-sums-divisible-by-k](https://github.com/monikark-del/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1590-make-sum-divisible-by-p](https://github.com/monikark-del/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
