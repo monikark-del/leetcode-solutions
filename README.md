@@ -8,6 +8,7 @@ My LeetCode solutions in Java
 | ------- | ------- |
 | [0848-shifting-letters](https://github.com/monikark-del/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -89,6 +90,7 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,4 +106,8 @@ My LeetCode solutions in Java
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/monikark-del/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/monikark-del/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
