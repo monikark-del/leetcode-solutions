@@ -7,14 +7,13 @@ class Solution {
         while(low<=high)
         {
             int mid=low+(high-low)/2;
-
             if(nums[mid]==target)
             {
                 return mid;
             }
             else if(nums[low]<=nums[mid])
             {
-                if(nums[low]<=target && target<nums[mid])
+                if(target>=nums[low] && target<nums[mid])
                 {
                     high=mid-1;
                 }
@@ -23,9 +22,9 @@ class Solution {
                     low=mid+1;
                 }
             }
-            else
+            else if(nums[low]>nums[mid])
             {
-                if(nums[mid]<target && target<=nums[high])
+                if(target > nums[mid] && target <= nums[high])
                 {
                     low=mid+1;
                 }
