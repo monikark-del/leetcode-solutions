@@ -27,6 +27,7 @@ My LeetCode solutions in Java
 | [0035-search-insert-position](https://github.com/monikark-del/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/monikark-del/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0704-binary-search](https://github.com/monikark-del/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -115,6 +116,7 @@ My LeetCode solutions in Java
 | [0035-search-insert-position](https://github.com/monikark-del/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0704-binary-search](https://github.com/monikark-del/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
