@@ -9,6 +9,7 @@ My LeetCode solutions in Java
 | [0020-valid-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0848-shifting-letters](https://github.com/monikark-del/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/monikark-del/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -64,6 +65,7 @@ My LeetCode solutions in Java
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/monikark-del/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/monikark-del/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -109,6 +111,7 @@ My LeetCode solutions in Java
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/monikark-del/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -142,6 +145,7 @@ My LeetCode solutions in Java
 | [0020-valid-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/monikark-del/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -156,4 +160,8 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
