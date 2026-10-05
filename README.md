@@ -9,6 +9,7 @@ My LeetCode solutions in Java
 | [0020-valid-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0242-valid-anagram](https://github.com/monikark-del/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0848-shifting-letters](https://github.com/monikark-del/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0856-score-of-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -74,6 +75,7 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/monikark-del/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0525-contiguous-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/monikark-del/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -125,6 +127,7 @@ My LeetCode solutions in Java
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/monikark-del/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
