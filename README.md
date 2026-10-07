@@ -13,6 +13,7 @@ My LeetCode solutions in Java
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/monikark-del/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/monikark-del/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/monikark-del/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/monikark-del/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -34,6 +35,7 @@ My LeetCode solutions in Java
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/monikark-del/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -71,6 +73,7 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/monikark-del/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0067-add-binary](https://github.com/monikark-del/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/monikark-del/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -218,4 +221,8 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/monikark-del/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
