@@ -19,6 +19,7 @@ My LeetCode solutions in Java
 | [0242-valid-anagram](https://github.com/monikark-del/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/monikark-del/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/monikark-del/leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -199,6 +200,7 @@ My LeetCode solutions in Java
 | [0125-valid-palindrome](https://github.com/monikark-del/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/monikark-del/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/monikark-del/leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## Trie
