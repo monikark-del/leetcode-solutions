@@ -14,6 +14,7 @@ My LeetCode solutions in Java
 | [0022-generate-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0049-group-anagrams](https://github.com/monikark-del/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/monikark-del/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/monikark-del/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/monikark-del/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -51,6 +52,7 @@ My LeetCode solutions in Java
 | [0033-search-in-rotated-sorted-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/monikark-del/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0049-group-anagrams](https://github.com/monikark-del/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/monikark-del/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -100,6 +102,7 @@ My LeetCode solutions in Java
 | [0001-two-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/monikark-del/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/monikark-del/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/monikark-del/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/monikark-del/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/monikark-del/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/monikark-del/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
@@ -158,6 +161,7 @@ My LeetCode solutions in Java
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/monikark-del/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/monikark-del/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Search
