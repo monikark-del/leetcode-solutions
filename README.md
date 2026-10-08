@@ -25,6 +25,7 @@ My LeetCode solutions in Java
 | [0344-reverse-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/monikark-del/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/monikark-del/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/monikark-del/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/monikark-del/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0541-reverse-string-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
@@ -110,6 +111,7 @@ My LeetCode solutions in Java
 | [0290-word-pattern](https://github.com/monikark-del/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/monikark-del/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/monikark-del/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/monikark-del/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0525-contiguous-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0771-jewels-and-stones](https://github.com/monikark-del/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
@@ -213,6 +215,7 @@ My LeetCode solutions in Java
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0409-longest-palindrome](https://github.com/monikark-del/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/monikark-del/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Two Pointers
