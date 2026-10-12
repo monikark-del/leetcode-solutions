@@ -34,6 +34,7 @@ My LeetCode solutions in Java
 | [0771-jewels-and-stones](https://github.com/monikark-del/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0848-shifting-letters](https://github.com/monikark-del/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0856-score-of-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0884-uncommon-words-from-two-sentences](https://github.com/monikark-del/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/monikark-del/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1002-find-common-characters](https://github.com/monikark-del/leetcode-solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -121,6 +122,7 @@ My LeetCode solutions in Java
 | [0451-sort-characters-by-frequency](https://github.com/monikark-del/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0525-contiguous-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0771-jewels-and-stones](https://github.com/monikark-del/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/monikark-del/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/monikark-del/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1002-find-common-characters](https://github.com/monikark-del/leetcode-solutions/tree/main/1002-find-common-characters/) | Easy |
@@ -274,6 +276,7 @@ My LeetCode solutions in Java
 | [0383-ransom-note](https://github.com/monikark-del/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/monikark-del/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0884-uncommon-words-from-two-sentences](https://github.com/monikark-del/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
