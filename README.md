@@ -44,6 +44,7 @@ My LeetCode solutions in Java
 | [1422-maximum-score-after-splitting-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/monikark-del/leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
@@ -128,6 +129,7 @@ My LeetCode solutions in Java
 | [1002-find-common-characters](https://github.com/monikark-del/leetcode-solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1590-make-sum-divisible-by-p](https://github.com/monikark-del/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/monikark-del/leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/monikark-del/leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Prefix Sum
@@ -277,6 +279,7 @@ My LeetCode solutions in Java
 | [0387-first-unique-character-in-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/monikark-del/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/monikark-del/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/monikark-del/leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
