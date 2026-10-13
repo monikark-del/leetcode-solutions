@@ -96,6 +96,7 @@ My LeetCode solutions in Java
 | [0012-integer-to-roman](https://github.com/monikark-del/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/monikark-del/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/monikark-del/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0202-happy-number](https://github.com/monikark-del/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/monikark-del/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -116,6 +117,7 @@ My LeetCode solutions in Java
 | [0012-integer-to-roman](https://github.com/monikark-del/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/monikark-del/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/monikark-del/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0202-happy-number](https://github.com/monikark-del/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/monikark-del/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/monikark-del/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/monikark-del/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
@@ -246,6 +248,7 @@ My LeetCode solutions in Java
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/monikark-del/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0202-happy-number](https://github.com/monikark-del/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/monikark-del/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
@@ -300,4 +303,8 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/monikark-del/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/monikark-del/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
