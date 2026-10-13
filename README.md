@@ -42,6 +42,7 @@ My LeetCode solutions in Java
 | [1096-brace-expansion-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/monikark-del/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/monikark-del/leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -134,6 +135,7 @@ My LeetCode solutions in Java
 | [0974-subarray-sums-divisible-by-k](https://github.com/monikark-del/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1002-find-common-characters](https://github.com/monikark-del/leetcode-solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/monikark-del/leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/monikark-del/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/monikark-del/leetcode-solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/monikark-del/leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
@@ -291,6 +293,7 @@ My LeetCode solutions in Java
 | [0387-first-unique-character-in-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/monikark-del/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/monikark-del/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/monikark-del/leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/monikark-del/leetcode-solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/monikark-del/leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 ## Heap (Priority Queue)
