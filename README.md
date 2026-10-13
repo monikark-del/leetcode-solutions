@@ -32,6 +32,7 @@ My LeetCode solutions in Java
 | [0557-reverse-words-in-a-string-iii](https://github.com/monikark-del/leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/monikark-del/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0791-custom-sort-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0848-shifting-letters](https://github.com/monikark-del/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0856-score-of-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/monikark-del/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
@@ -127,6 +128,7 @@ My LeetCode solutions in Java
 | [0451-sort-characters-by-frequency](https://github.com/monikark-del/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0525-contiguous-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0771-jewels-and-stones](https://github.com/monikark-del/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0791-custom-sort-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/monikark-del/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/monikark-del/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -190,6 +192,7 @@ My LeetCode solutions in Java
 | [0049-group-anagrams](https://github.com/monikark-del/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/monikark-del/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/monikark-del/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0791-custom-sort-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/monikark-del/leetcode-solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/monikark-del/leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
