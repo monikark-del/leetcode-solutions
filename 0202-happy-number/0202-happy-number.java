@@ -5,18 +5,17 @@ class Solution {
         {
             return true;
         }
-        
+
         int sum=n;
         while(sum!=1 && sum!=4)
         {
             int digit=0;
             while(sum>0)
             {
-            digit+=(sum%10)*(sum%10);
-            sum/=10;
+                digit+=(sum%10)*(sum%10);
+                sum/=10;
             }
             sum=digit;
-           
         }
         if(sum==1)
         {
