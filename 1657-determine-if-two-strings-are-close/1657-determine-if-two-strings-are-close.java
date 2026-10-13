@@ -8,7 +8,8 @@ class Solution {
         {
             return false;
         }
-        for(char i:word1.toCharArray())
+
+        for(char i: word1.toCharArray())
         {
             m1.put(i,m1.getOrDefault(i,0)+1);
         }
@@ -18,28 +19,27 @@ class Solution {
             m2.put(i,m2.getOrDefault(i,0)+1);
         }
 
-        for(char i:word2.toCharArray())
+        for(char i: word2.toCharArray())
         {
             if(!m1.containsKey(i))
             {
                 return false;
             }
-
         }
-        ArrayList<Integer> a=new ArrayList<>();
 
-        for(int i: m1.values())
+        ArrayList<Integer> a1=new ArrayList<>();
+        for(int i:m1.values())
         {
-            a.add(i);
+            a1.add(i);
         }
-        ArrayList<Integer> a2= new ArrayList<>();
+        ArrayList<Integer> a2=new ArrayList<>();
         for(int i:m2.values())
         {
             a2.add(i);
         }
-        Collections.sort(a);
+        Collections.sort(a1);
         Collections.sort(a2);
-
-        return a.equals(a2);
+        
+        return a1.equals(a2);
     }
 }
