@@ -34,6 +34,7 @@ My LeetCode solutions in Java
 | [0678-valid-parenthesis-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/monikark-del/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0791-custom-sort-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0791-custom-sort-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/monikark-del/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0848-shifting-letters](https://github.com/monikark-del/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0856-score-of-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/monikark-del/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
@@ -56,6 +57,7 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/monikark-del/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0844-backspace-string-compare](https://github.com/monikark-del/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -178,6 +180,7 @@ My LeetCode solutions in Java
 | [0020-valid-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/monikark-del/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/monikark-del/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -266,6 +269,7 @@ My LeetCode solutions in Java
 | [0443-string-compression](https://github.com/monikark-del/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/monikark-del/leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/monikark-del/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/monikark-del/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
