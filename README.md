@@ -89,6 +89,7 @@ My LeetCode solutions in Java
 | [0930-binary-subarrays-with-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/monikark-del/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1002-find-common-characters](https://github.com/monikark-del/leetcode-solutions/tree/main/1002-find-common-characters/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/monikark-del/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/monikark-del/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -213,6 +214,7 @@ My LeetCode solutions in Java
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/monikark-del/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/monikark-del/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +265,7 @@ My LeetCode solutions in Java
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/monikark-del/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/monikark-del/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/monikark-del/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -367,6 +370,7 @@ My LeetCode solutions in Java
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/monikark-del/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/monikark-del/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -388,4 +392,8 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/monikark-del/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/monikark-del/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
