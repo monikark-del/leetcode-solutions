@@ -110,6 +110,7 @@ My LeetCode solutions in Java
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/monikark-del/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/monikark-del/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/monikark-del/leetcode-solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/monikark-del/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/monikark-del/leetcode-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/monikark-del/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -138,6 +139,7 @@ My LeetCode solutions in Java
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/monikark-del/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/monikark-del/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/monikark-del/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/monikark-del/leetcode-solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/monikark-del/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -276,6 +278,7 @@ My LeetCode solutions in Java
 | [1254-number-of-closed-islands](https://github.com/monikark-del/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/monikark-del/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/monikark-del/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/monikark-del/leetcode-solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/monikark-del/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
