@@ -83,6 +83,7 @@ My LeetCode solutions in Java
 | [0238-product-of-array-except-self](https://github.com/monikark-del/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/monikark-del/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/monikark-del/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -124,6 +125,7 @@ My LeetCode solutions in Java
 | [0067-add-binary](https://github.com/monikark-del/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0202-happy-number](https://github.com/monikark-del/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/monikark-del/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/monikark-del/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/monikark-del/leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
@@ -235,6 +237,7 @@ My LeetCode solutions in Java
 | [0049-group-anagrams](https://github.com/monikark-del/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/monikark-del/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/monikark-del/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0791-custom-sort-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/monikark-del/leetcode-solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
