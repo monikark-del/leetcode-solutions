@@ -94,6 +94,7 @@ My LeetCode solutions in Java
 | [0974-subarray-sums-divisible-by-k](https://github.com/monikark-del/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1002-find-common-characters](https://github.com/monikark-del/leetcode-solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/monikark-del/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/monikark-del/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/monikark-del/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -242,6 +243,7 @@ My LeetCode solutions in Java
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0791-custom-sort-string](https://github.com/monikark-del/leetcode-solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/monikark-del/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/monikark-del/leetcode-solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/monikark-del/leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -261,6 +263,7 @@ My LeetCode solutions in Java
 | [0540-single-element-in-a-sorted-array](https://github.com/monikark-del/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/monikark-del/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/monikark-del/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/monikark-del/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/monikark-del/leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -321,6 +324,7 @@ My LeetCode solutions in Java
 | [0541-reverse-string-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/monikark-del/leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/monikark-del/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/monikark-del/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/monikark-del/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
