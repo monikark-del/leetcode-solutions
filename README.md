@@ -57,6 +57,7 @@ My LeetCode solutions in Java
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/monikark-del/leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/monikark-del/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/monikark-del/leetcode-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/monikark-del/leetcode-solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -159,6 +160,7 @@ My LeetCode solutions in Java
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/monikark-del/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/monikark-del/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/monikark-del/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/monikark-del/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/monikark-del/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/monikark-del/leetcode-solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/monikark-del/leetcode-solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -350,6 +352,7 @@ My LeetCode solutions in Java
 | [0844-backspace-string-compare](https://github.com/monikark-del/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/monikark-del/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/monikark-del/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/monikark-del/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
